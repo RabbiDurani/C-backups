@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659033265 source:d:\c language projects\how to create header file\how to create header file.c
+
+1659033375 source:d:\c language projects\how to create header file\main.c
+	<stdio.h>
+	"How to create header file.c"
+
+1659033265 d:\c language projects\how to create header file\how to create header file.c
+
